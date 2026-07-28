@@ -1,5 +1,5 @@
 {
-  "version": "2.5",
-  "changelog": "🚀 Version 2.5 Big Release:\n• Official Google Sign-In button\n• Live Notification Bell with unread badge\n• Swipe gestures for Onboarding slides\n• Dynamic profile stats & real Joined date\n• Tap-to-read Notifications\n• Auto image compression for avatars\n• Wishlist removal confirmation\n• Full WCAG accessibility & keyboard polish",
+  "version": "2.5.1",
+  "changelog": "🛡️ Emergency Stability & Performance Patch (v2.5.1):\n• Fixed touch event crash on Onboarding slides\n• Safe date formatting for profile Joined stat\n• Defensive storage error handling for Notifications\n• Complete crash protection for all UI interactions",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
