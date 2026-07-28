@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "2.4.10",
   "changelog": "🚀 Version 3.0.0 Major UI & UX Upgrade:\n• Official Google Sign-In button\n• Live Notification Bell with unread badge\n• Swipe gestures for Onboarding slides\n• Dynamic profile stats & Joined date\n• Tap-to-read Notifications\n• Auto image compression for avatars\n• Wishlist removal confirmation\n• Full WCAG accessibility & keyboard polish\n• Crash-proof defensive touch & date handlers",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
