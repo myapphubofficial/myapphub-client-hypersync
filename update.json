@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "changelog": "Added local storage check to prevent infinite OTA update loops. Also added a dual-version display in the Settings/About pages.",
+  "version": "2.5",
+  "changelog": "🚀 Version 2.5 Big Release:\n• Official Google Sign-In button\n• Live Notification Bell with unread badge\n• Swipe gestures for Onboarding slides\n• Dynamic profile stats & real Joined date\n• Tap-to-read Notifications\n• Auto image compression for avatars\n• Wishlist removal confirmation\n• Full WCAG accessibility & keyboard polish",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
