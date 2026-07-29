@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
+  "version": "2.4.NaN",
   "changelog": "Fixed profile update failure and optimized profile pictures.",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
