@@ -1,5 +1,5 @@
 {
-  "version": "2.8",
-  "changelog": "Performance & Stability Update - Fixed massive memory leaks, Google Auth deletion bugs, and optimized database reads (N+1 fixes).",
+  "version": "2.9",
+  "changelog": "Settings Redesign & Navigation Fix - Neumorphic haptic toggles, Dark mode persistence, and critical RAM crash fix for deep app navigation.",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
