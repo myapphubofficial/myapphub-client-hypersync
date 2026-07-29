@@ -1,5 +1,5 @@
 {
-  "version": "2.9",
-  "changelog": "Hotfix: Resolved a crash on launch caused by the previous update. Also added a new animated logout button!",
+  "version": "3.0",
+  "changelog": "Version 3.0: Fixed WifiLoader imports that caused the app to crash on launch.",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
