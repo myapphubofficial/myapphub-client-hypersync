@@ -1,5 +1,5 @@
 {
-  "version": "2.4.NaN",
-  "changelog": "Fixed profile update failure and optimized profile pictures.",
+  "version": "2.6",
+  "changelog": "Ultimate UI & Scalability Update - New Google Play style details, removed slogans, and fixed memory/crash issues.",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
