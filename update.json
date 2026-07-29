@@ -1,5 +1,5 @@
 {
-  "version": "2.7",
-  "changelog": "Ultimate UI & Scalability Update - New Google Play style details, removed slogans, and fixed memory/crash issues.",
+  "version": "2.8",
+  "changelog": "Performance & Stability Update - Fixed massive memory leaks, Google Auth deletion bugs, and optimized database reads (N+1 fixes).",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
