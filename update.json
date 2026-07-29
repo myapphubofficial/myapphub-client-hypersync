@@ -1,5 +1,5 @@
 {
   "version": "2.9",
-  "changelog": "Settings Redesign & Navigation Fix - Neumorphic haptic toggles, Dark mode persistence, and critical RAM crash fix for deep app navigation.",
+  "changelog": "Hotfix: Resolved a crash on launch caused by the previous update. Also added a new animated logout button!",
   "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
 }
