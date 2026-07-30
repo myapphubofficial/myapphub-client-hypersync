@@ -1,5 +1,5 @@
 {
-  "version": "3.0",
-  "changelog": "Version 3.0: Fixed WifiLoader imports that caused the app to crash on launch.",
-  "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.zip"
+  "version": "3.0.2",
+  "changelog": "Hypersync 2.0 (APK updates) enabled!",
+  "url": "https://raw.githubusercontent.com/myapphubofficial/myapphub-client-hypersync/main/update.apk"
 }
